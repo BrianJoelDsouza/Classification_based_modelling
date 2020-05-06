@@ -1,0 +1,2 @@
+# Classification_based_modelling
+This project analyzes the data obtained from ~2000 customers of Apprentice Chef, a gourmet meal delivery company, by conducting exploratory data analysis, feature engineering, variable selection for modeling and finally building a classification based model to predict the likelihood of a new customer opting for the optional half bottle of wine, as part of the cross-selling promotion, together with the ordered meals.
